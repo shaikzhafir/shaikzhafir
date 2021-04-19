@@ -1,4 +1,4 @@
-### People always ask who is Shaik, but they never ask how is Shaik
+### 🤡 People always ask who is Shaik, but they never ask how is Shaik 🤡
 
 Check out these repos 
 - [Project based management application (FYP)](https://github.com/shaikzhafir/fyp-test)
