@@ -2,10 +2,11 @@
 
 Check out these repos 
 - [Toilet Rating Web Application](https://github.com/shaikzhafir/toilet-app-backend)
+- [Personal blog](https://shaikzhafir-blog.vercel.app/)
 - [Project based management application (FYP)](https://github.com/shaikzhafir/fyp-test)
 - [Meme App (simple use case of imgflip API)](https://github.com/shaikzhafir/meme-app)
 - [When can i eat (simple use case of puppeteer)](https://github.com/shaikzhafir/when-eat)
-- [Personal blog](https://shaikzhafir-blog.vercel.app/)
+
 
 Tech Stack
 - Javascript
