@@ -9,7 +9,6 @@ Check out these repos
 
 
 Tech Stack
-- Javascript
 - React, Angular
 - NodeJS (ExpressJS,AdonisJS)
 - Database (PostgreSQL,MongoDB)
