@@ -14,8 +14,8 @@ Tech Stack
 - Database (PostgreSQL,MongoDB)
 
 Currently Deep Diving into
-- React 
-- JavaScript
+- Go
+- JS
 
 <!--
 **shaikzhafir/shaikzhafir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
