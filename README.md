@@ -1,8 +1,8 @@
-### 🤡 People always ask who is Shaik, but they never ask how is Shaik 🤡
+### 🤡 Shaik 🤡
 
 Check out these repos 
 - [Toilet Rating Web Application](https://github.com/shaikzhafir/toilet-app-backend)
-- [Personal blog](https://shaikzhafir-blog.vercel.app/)
+- [Personal blog using Notion as CMS](https://shaikzhafir-blog.vercel.app/)
 - [Slowly building a go service](https://github.com/shaikzhafir/go-labiblioteca-backend)
 
 
