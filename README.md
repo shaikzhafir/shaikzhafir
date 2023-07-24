@@ -1,17 +1,11 @@
-### 🤡 Shaik 🤡
+### 🤡 Shaik Zhafir🤡
 
-Check out these repos 
-- [Toilet Rating Web Application](https://github.com/shaikzhafir/toilet-app-backend)
-- [Personal blog using Notion as CMS](https://shaikzhafir-blog.vercel.app/)
-- [Slowly building a go service](https://github.com/shaikzhafir/go-labiblioteca-backend)
+Check out these sites
+- [Book Review application](https://la-biblioteca.fly.dev)
+- [Personal blog using Notion as CMS](https://blog.shaikzhafir.com/)
+- [Chat application with htmx + Go](https://cloud.shaikzhafir.com/)
 
-
-Tech Stack
-- React
-- NodeJS (ExpressJS,AdonisJS)
-- Database (PostgreSQL,MongoDB)
-
-Currently Deep Diving into
+Languages
 - Go
 - JS
 
