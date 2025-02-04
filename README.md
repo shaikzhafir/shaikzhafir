@@ -1,9 +1,7 @@
 ### 🤡 Shaik Zhafir🤡
 
 Check out these sites
-- [Book Review application](https://la-biblioteca.fly.dev)
-- [Personal blog using Notion as CMS](https://blog.shaikzhafir.com/)
-- [Slowly migrating blog to use htmx + Go](https://cloud.shaikzhafir.com/)
+- [personal blog using htmx + Go + notion as CMS](https://cloud.shaikzhafir.com/)
 
 Languages
 - Go
